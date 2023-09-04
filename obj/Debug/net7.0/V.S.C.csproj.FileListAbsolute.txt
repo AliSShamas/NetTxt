@@ -1,0 +1,66 @@
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\V.S.C\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\V.S.C\bin\Debug\net7.0\appsettings.json
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\V.S.C\bin\Debug\net7.0\V.S.C.exe
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\V.S.C\bin\Debug\net7.0\V.S.C.deps.json
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\V.S.C\bin\Debug\net7.0\V.S.C.runtimeconfig.json
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\V.S.C\bin\Debug\net7.0\V.S.C.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\V.S.C\bin\Debug\net7.0\V.S.C.pdb
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\V.S.C\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\V.S.C\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\V.S.C\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\V.S.C\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\V.S.C\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\V.S.C\obj\Debug\net7.0\V.S.C.csproj.AssemblyReference.cache
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\V.S.C\obj\Debug\net7.0\V.S.C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\V.S.C\obj\Debug\net7.0\V.S.C.AssemblyInfoInputs.cache
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\V.S.C\obj\Debug\net7.0\V.S.C.AssemblyInfo.cs
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\V.S.C\obj\Debug\net7.0\V.S.C.csproj.CoreCompileInputs.cache
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\V.S.C\obj\Debug\net7.0\V.S.C.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\V.S.C\obj\Debug\net7.0\V.S.C.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\V.S.C\obj\Debug\net7.0\staticwebassets\msbuild.V.S.C.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\V.S.C\obj\Debug\net7.0\staticwebassets\msbuild.build.V.S.C.props
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\V.S.C\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.V.S.C.props
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\V.S.C\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.V.S.C.props
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\V.S.C\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\V.S.C\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\V.S.C\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\V.S.C\obj\Debug\net7.0\scopedcss\bundle\V.S.C.styles.css
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\V.S.C\obj\Debug\net7.0\V.S.C.csproj.CopyComplete
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\V.S.C\obj\Debug\net7.0\V.S.C.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\V.S.C\obj\Debug\net7.0\refint\V.S.C.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\V.S.C\obj\Debug\net7.0\V.S.C.pdb
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\V.S.C\obj\Debug\net7.0\V.S.C.genruntimeconfig.cache
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\V.S.C\obj\Debug\net7.0\ref\V.S.C.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\This session is actual hell kela wara l kweles stuff,u have been warned\V.S.C\obj\Debug\net7.0\V.S.C.csproj.AssemblyReference.cache
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\This session is actual hell kela wara l kweles stuff,u have been warned\V.S.C\obj\Debug\net7.0\V.S.C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\This session is actual hell kela wara l kweles stuff,u have been warned\V.S.C\obj\Debug\net7.0\V.S.C.AssemblyInfoInputs.cache
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\This session is actual hell kela wara l kweles stuff,u have been warned\V.S.C\obj\Debug\net7.0\V.S.C.AssemblyInfo.cs
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\This session is actual hell kela wara l kweles stuff,u have been warned\V.S.C\obj\Debug\net7.0\V.S.C.csproj.CoreCompileInputs.cache
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\This session is actual hell kela wara l kweles stuff,u have been warned\V.S.C\obj\Debug\net7.0\V.S.C.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\This session is actual hell kela wara l kweles stuff,u have been warned\V.S.C\obj\Debug\net7.0\V.S.C.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\This session is actual hell kela wara l kweles stuff,u have been warned\V.S.C\obj\Debug\net7.0\V.S.C.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\This session is actual hell kela wara l kweles stuff,u have been warned\V.S.C\obj\Debug\net7.0\refint\V.S.C.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\This session is actual hell kela wara l kweles stuff,u have been warned\V.S.C\obj\Debug\net7.0\V.S.C.pdb
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\This session is actual hell kela wara l kweles stuff,u have been warned\V.S.C\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\This session is actual hell kela wara l kweles stuff,u have been warned\V.S.C\bin\Debug\net7.0\appsettings.json
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\This session is actual hell kela wara l kweles stuff,u have been warned\V.S.C\bin\Debug\net7.0\V.S.C.exe
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\This session is actual hell kela wara l kweles stuff,u have been warned\V.S.C\bin\Debug\net7.0\V.S.C.deps.json
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\This session is actual hell kela wara l kweles stuff,u have been warned\V.S.C\bin\Debug\net7.0\V.S.C.runtimeconfig.json
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\This session is actual hell kela wara l kweles stuff,u have been warned\V.S.C\bin\Debug\net7.0\V.S.C.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\This session is actual hell kela wara l kweles stuff,u have been warned\V.S.C\bin\Debug\net7.0\V.S.C.pdb
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\This session is actual hell kela wara l kweles stuff,u have been warned\V.S.C\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\This session is actual hell kela wara l kweles stuff,u have been warned\V.S.C\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\This session is actual hell kela wara l kweles stuff,u have been warned\V.S.C\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\This session is actual hell kela wara l kweles stuff,u have been warned\V.S.C\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\This session is actual hell kela wara l kweles stuff,u have been warned\V.S.C\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\This session is actual hell kela wara l kweles stuff,u have been warned\V.S.C\obj\Debug\net7.0\staticwebassets\msbuild.V.S.C.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\This session is actual hell kela wara l kweles stuff,u have been warned\V.S.C\obj\Debug\net7.0\staticwebassets\msbuild.build.V.S.C.props
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\This session is actual hell kela wara l kweles stuff,u have been warned\V.S.C\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.V.S.C.props
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\This session is actual hell kela wara l kweles stuff,u have been warned\V.S.C\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.V.S.C.props
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\This session is actual hell kela wara l kweles stuff,u have been warned\V.S.C\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\This session is actual hell kela wara l kweles stuff,u have been warned\V.S.C\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\This session is actual hell kela wara l kweles stuff,u have been warned\V.S.C\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\This session is actual hell kela wara l kweles stuff,u have been warned\V.S.C\obj\Debug\net7.0\scopedcss\bundle\V.S.C.styles.css
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\This session is actual hell kela wara l kweles stuff,u have been warned\V.S.C\obj\Debug\net7.0\V.S.C.csproj.CopyComplete
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\This session is actual hell kela wara l kweles stuff,u have been warned\V.S.C\obj\Debug\net7.0\V.S.C.genruntimeconfig.cache
+C:\Users\Hazar\Desktop\code\dell\web 2\S5(ASP.NET)-VIP+many concepts\This session is actual hell kela wara l kweles stuff,u have been warned\V.S.C\obj\Debug\net7.0\ref\V.S.C.dll
